@@ -1,0 +1,8 @@
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\bin\Release\Protocol.dll
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\bin\Release\Protocol.pdb
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\bin\Release\Google.Protobuf.dll
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\obj\Release\Protocol.csprojAssemblyReference.cache
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\obj\Release\Protocol.csproj.CoreCompileInputs.cache
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\obj\Release\Protocol.csproj.CopyComplete
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\obj\Release\Protocol.dll
+C:\Projects\BreakoutCloneEC\Server\Protocol\Protocol\obj\Release\Protocol.pdb
